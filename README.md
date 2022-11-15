@@ -2,7 +2,7 @@
 Database for "A global database for climate-related financial policies"
 
 
-BACKGROUND
+<bold>.BACKGROUND<\bold>.
 
 Climate change can directly impact financial stability by increasing the frequency and severity of natural disasters like heat waves, windstorms, floods, or droughts. Physical risks can reduce the value of financial organizations' collateral assets and insurance liabilities when they manifest. Transition risks, such as unforeseen adjustments in climate policy, technological advancement, or shifts in public opinion and consumers' preferences, can also impact financial markets. Therefore, it is now commonly accepted that central banks and financial regulators must act to establish regulations to address climate-related financial risks and scale up green finance. Although their policies cannot substitute for climate policy, central banks' and financial regulators' actions are essential for addressing current and future climate threats to financial stability. 
 
