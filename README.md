@@ -23,9 +23,13 @@ An Open Library of Sources contains all sources used to collect the data.
 <b>DATA FIELDS</b>
 
 ID: Unique identifier for each individually implemented measure. 
+
 Country: The Country where the measure was implemented.
+
 ISO3: Three-letter country code published by the International Organization for Standardization.
+
 GEO: geographical location according to the World Bank classification.
+
 DEV: Development stage according to the World Bank classification:
 - high-income countries: HIC, 
 - upper-middle income countries: UMIC, 
@@ -33,10 +37,15 @@ DEV: Development stage according to the World Bank classification:
 - low-income countries: LIC.
 
 YEAR: Year of adoption of the policy.
+
 CAT1: Type of instrument: for each category, single instruments have been recorded. 
+
 CAT2: Taxonomy according to the five Policy Areas. 
+
 DESCR: Describes the measure found in the text data source, translated into English.
-AUTH: Identifies the institution responsible for the promotion/implementation of the policy, as mentioned in the document. 
+
+AUTH: Identifies the institution responsible for the promotion/implementation of the policy, as mentioned in the document.
+
 AUTHCAT: Identifies the type of institution responsible for the promotion/implementation of the policy classified according to the following categories: 
 - Central banks: 1, 
 - Financial supervisors and regulators: 2, 
