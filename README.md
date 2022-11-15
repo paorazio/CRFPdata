@@ -17,12 +17,36 @@ The methodology is described in D'Orazio, P. (2022), A global database for clima
 
 DATA SOURCES
 
-A wide range of different public sources are used to populate, update and curate our dataset, including official government sources, peer-reviewed and non-peer-reviewed scientific papers, webpages of public health institutions (WHO, CDC, and ECDC), press releases, newspaper articles, and government communication through social media.
-
-An Open Library of Sources is available that contains all sources used to collect the data: https://www.zotero.org/groups/2488884/cccsl_covid_measure_project.
-We also provide various formats of this library that can be imported in different reference manager software.
+A wide range of public sources is used to populate, update and curate the dataset, including official government, central banks and financial institutions sources, webpages of public institutions, central banks, financial supervisory authorities, governments, and banking associations.
+An Open Library of Sources contains all sources used to collect the data.
 
 DATA FIELDS
+
+ID: Unique identifier for each individually implemented measure. 
+Country: The Country where the measure was implemented.
+ISO3: Three-letter country code published by the International Organization for Standardization.
+GEO: geographical location according to the World Bank classification.
+DEV: Development stage according to the World Bank classification:
+- high-income countries: HIC, 
+- upper-middle income countries: UMIC, 
+- lower-middle-income countries: UMIC, 
+- low-income countries: LIC.
+
+YEAR: Year of adoption of the policy.
+CAT1: Type of instrument: for each category, single instruments have been recorded. 
+CAT2: Taxonomy according to the five Policy Areas. 
+DESCR: Describes the measure found in the text data source, translated into English.
+AUTH: Identifies the institution responsible for the promotion/implementation of the policy, as mentioned in the document. 
+AUTHCAT: Identifies the type of institution responsible for the promotion/implementation of the policy classified according to the following categories: 
+- Central banks: 1, 
+- Financial supervisors and regulators: 2, 
+- External (when either a government or non-governmental actor is involved): 3; 
+- Multiple (when multiple government or non-governmental actors are involved): 4.
+
+BIND: Describes the bindingness of the policy. We assign the values as follows:
+- no information on the bindingness (or the policy is not binding): 1, 
+- Voluntary adoption: 2, 
+- Mandatory adoption: 3.
 
 LICENSE
 
