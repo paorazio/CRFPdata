@@ -7,20 +7,20 @@ Database for "A global database for climate-related financial policies"
 Climate change can directly impact financial stability by increasing the frequency and severity of natural disasters like heat waves, windstorms, floods, or droughts. Physical risks can reduce the value of financial organizations' collateral assets and insurance liabilities when they manifest. Transition risks, such as unforeseen adjustments in climate policy, technological advancement, or shifts in public opinion and consumers' preferences, can also impact financial markets. Therefore, it is now commonly accepted that central banks and financial regulators must act to establish regulations to address climate-related financial risks and scale up green finance. Although their policies cannot substitute for climate policy, central banks' and financial regulators' actions are essential for addressing current and future climate threats to financial stability. 
 
 
-OBJECTIVE OF THE PROJECT
+<b>OBJECTIVE OF THE PROJECT</b>
 
 Our knowledge of what policies are used across countries and time, which the authorities responsible for their promotion and implementation, and the “bindingness” of the policy is still quite limited, hindering our ability to understand the newly developed financial policies and institutions’ reforms in the short and medium run in response to climate change threats to the financial system stability. Against this backdrop, this article introduces the Climate-related Financial Policies Database and provides statistics on its main indicators. The database captures various aspects of financial (central banks and financial regulators and supervisors) and non-financial (ministries, banking associations, governments, and others) institutions’ green financial policymaking in the past 20 years.
 
-METHODOLOGY 
+<b>METHODOLOGY </b>
 
 The methodology is described in D'Orazio, P. (2022), A global database for climate-related financial policies, under review
 
-DATA SOURCES
+<b>DATA SOURCES</b>
 
 A wide range of public sources is used to populate, update and curate the dataset, including official government, central banks and financial institutions sources, webpages of public institutions, central banks, financial supervisory authorities, governments, and banking associations.
 An Open Library of Sources contains all sources used to collect the data.
 
-DATA FIELDS
+<b>DATA FIELDS</b>
 
 ID: Unique identifier for each individually implemented measure. 
 Country: The Country where the measure was implemented.
@@ -48,11 +48,11 @@ BIND: Describes the bindingness of the policy. We assign the values as follows:
 - Voluntary adoption: 2, 
 - Mandatory adoption: 3.
 
-LICENSE
+<b>LICENSE</b>
 
 This project is licensed under the CC BY-SA 4.0 License - see the CC BY-SA 4.0 file for details.
 
-CONTACT
+<b>CONTACT</b>
 
 Paola D'Orazio 
 Ruhr University Bochum
