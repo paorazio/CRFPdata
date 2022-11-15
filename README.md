@@ -1,5 +1,5 @@
 # CRFPdata
-Database for "A global database for climate-related financial policies"
+A global database for climate-related financial policies
 
 
 <b>BACKGROUND</b>
