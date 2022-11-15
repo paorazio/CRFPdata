@@ -66,3 +66,5 @@ This project is licensed under the CC BY-SA 4.0 License - see the CC BY-SA 4.0 f
 Paola D'Orazio 
 Ruhr University Bochum
 paola.dorazio@rub.de
+
+Please contact me via email if you notice any inaccuracies in the underlying data or if relevant information is missing.
