@@ -13,7 +13,7 @@ Our knowledge of what policies are used across countries and time, which the aut
 
 <b>METHODOLOGY </b>
 
-The methodology is described in D'Orazio, P. (2022), A global database for climate-related financial policies, under review
+The methodology is described in D'Orazio, P. (2022), A global database for climate-related financial policies, under review [this reference will be updated]
 
 <b>DATA SOURCES</b>
 
