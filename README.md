@@ -62,6 +62,7 @@ BIND: Describes the bindingness of the policy. We assign the values as follows:
 This project is licensed under the CC BY License.
 
 <b>HOW TO CITE?</b>
+
 Paola D'Orazio. (2022). paorazio/CRFPdata: v3.1.0 (v3.1.0). Zenodo. https://doi.org/10.5281/zenodo.7434688
 
 <b>CONTACT</b>
